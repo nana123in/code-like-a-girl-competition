@@ -1,0 +1,9 @@
+@font-face {
+  font-family: nickainley;
+  src: Nickainley-Normal.otf;
+}
+
+body{
+  background-color: #E0DEBE;
+  font-family: nickainley
+}
