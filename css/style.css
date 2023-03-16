@@ -35,3 +35,18 @@ body{
 .navbar .nav-item a:hover{
   color: #ba4d2f !important;
 }
+.jumbotron{
+  background-color: #ffffff;
+  text-align: center;
+}
+.jumbotron .btn{
+  background-color: #ba4d2f;
+  color: #ffffff;
+  border-color: #ba4d2f;
+}
+
+.jumbotron .btn:hover{
+  background-color: transparent;
+  color: #ba4d2f;
+  border-color: #ba4d2f;
+}
