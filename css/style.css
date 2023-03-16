@@ -4,6 +4,34 @@
 }
 
 body{
-  background-color: #E0DEBE;
-  font-family: nickainley
+  background-color: #ffffff;
+  font-family: nickainley;
+}
+.navbar {
+  background-color: transparent !important;
+  outline-color: #000000;
+}
+.navbar form button {
+  color: #ba4d2f;
+  border-color: #ba4d2f;
+}
+.btn-outline{
+  color: #ba4d2f;
+}
+.navbar form button:hover{
+  background-color: #ba4d2f;
+  color: #ffffff;
+  border-color: #ba4d2f;
+}
+.dropdown-menu{
+  background-color: #ba4d2f;
+}
+.dropdown-item{
+  color: #ffffff;
+}
+.navbar .navbar-nav{
+  font-size: 20px;
+}
+.navbar .nav-item a:hover{
+  color: #ba4d2f !important;
 }
