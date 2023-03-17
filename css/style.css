@@ -50,3 +50,110 @@ body{
   color: #ba4d2f;
   border-color: #ba4d2f;
 }
+h2 {
+  text-align: center;
+  padding: 35px;
+}
+.card{
+  align-items: center;
+  margin: 50px;
+}
+.card .btn{
+  background-color: #ba4d2f;
+  color: #ffffff;
+  border-color: #ba4d2f;
+}
+.card .btn:hover{
+  background-color: transparent;
+  color: #ba4d2f;
+  border-color: #ba4d2f;
+}
+.footer{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-top: 150px;
+  width: 100%;
+  padding: 100px 15%;
+  background: #ba4d2f;
+  color: #ffffff;
+  display: flex;
+}
+.footer div{
+  text-align: inherit;
+}
+.col-2{
+  flex-grow: 2;
+  align: center !important;
+}
+.footer div h3{
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+form input{
+  width: 400px;
+  height: 45px;
+  border-radius: 4px;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  outline: none;
+  border: none;
+}
+.footer button{
+  background-color: transparent !important;
+  color: #fff;
+  padding: 10px 30px;
+  font-size: 15px;
+  border-color: #fff;
+  cursor: pointer;
+}
+.jumbotron h1{
+  color: #ba4d2f;
+  margin-bottom: 40px;
+  margin-top: 0;
+  padding-top: 0;
+}
+.jumbotron p{
+  color: #808080;
+}
+.title{
+  text-align: center;
+  color: #ba4d2f;
+  margin-top: 40px;
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 65px;
+}
+.extra-info{
+  color: #808080;
+  text-align: center;
+  margin-bottom: 40px;
+  padding: 0;
+  margin-top: 0;
+}
+.linkn{
+  text-align: left;
+  margin-bottom: 20px;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.social-icons {
+  padding: 20px;
+  font-size: 50px;
+  width: 30px;
+  text-align: center;
+  align-items: center;
+  margin-left: 500px;
+  margin-right: 50px;
+  display: inline;
+}
+.fa-brands{
+  color: #1B1212;
+  margin: 30px;
+  margin-top: 40px;
+  align: center;
+}
+.fa-brands:hover{
+  color: #808080;
+}
